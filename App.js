@@ -50,14 +50,16 @@ const styles = StyleSheet.create({
       alignSelf:'center',
       justifyContent: 'center'
   },
-    buttonText: {
+  buttonText: {
       color: '#fff',
       fontSize: 18,
       alignSelf:'center',
       justifyContent:'center'
   },
-    image: {
-        width: 400,
-        height: 225
-    }
+  image: {
+      width: 400,
+      height: 225,
+      borderColor: '#48BBEC',
+      borderWidth: 5,
+  }
 });
